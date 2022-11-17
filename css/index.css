@@ -1,0 +1,41 @@
+.sale {
+  background-image: url(../images/background-mob-1x.jpg);
+}
+
+.sale-title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 1.18;
+  color: #ffffff;
+}
+
+.card-list {
+  text-decoration: none;
+  list-style: none;
+  /* display: block; */
+}
+
+.card-img {
+  border-radius: 12px;
+}
+
+.card-position {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.18;
+  color: #86e543;
+}
+
+.old-price {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1;
+  text-decoration-line: line-through;
+  color: #8d9289;
+}
