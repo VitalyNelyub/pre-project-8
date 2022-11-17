@@ -14,8 +14,8 @@
 .card-list {
   text-decoration: none;
   list-style: none;
-  /* display: block; */
 }
+
 
 .card-img {
   border-radius: 12px;
@@ -41,5 +41,10 @@
 }
 
 .new-price {
-    
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1;
+  color: #86e543;
 }
